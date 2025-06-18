@@ -6,7 +6,7 @@ This repository contains essential topics to master Data Science using Python â€
 
 ## ðŸ“š Topics and Definitions
 
-### 1. Introduction  
+### 1. Introduction
 Basic setup of the data science environment, including Python, Jupyter Notebook, and essential packages.
 
 ### 2. Pandas & NumPy  
