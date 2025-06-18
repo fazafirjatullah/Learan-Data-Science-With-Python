@@ -15,7 +15,7 @@ Libraries for data manipulation and numerical operations. Pandas is used for wor
 ### 3. Matplotlib & Seaborn
 Visualization libraries in Python. Matplotlib offers customizable plots, and Seaborn provides statistical graphics built on top of Matplotlib.
 
-### 4. Linear Regression & Logistic Regression  
+### 4. Linear Regression & Logistic Regression
 Supervised learning algorithms. Linear Regression predicts continuous values; Logistic Regression is used for binary classification.
 
 ### 5. Decision Tree, Random Forest, K-Nearest Neighbors  
