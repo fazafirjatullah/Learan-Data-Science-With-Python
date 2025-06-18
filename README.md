@@ -12,7 +12,7 @@ Basic setup of the data science environment, including Python, Jupyter Notebook,
 ### 2. Pandas & NumPy
 Libraries for data manipulation and numerical operations. Pandas is used for working with structured data, while NumPy handles numerical arrays.
 
-### 3. Matplotlib & Seaborn  
+### 3. Matplotlib & Seaborn
 Visualization libraries in Python. Matplotlib offers customizable plots, and Seaborn provides statistical graphics built on top of Matplotlib.
 
 ### 4. Linear Regression & Logistic Regression  
