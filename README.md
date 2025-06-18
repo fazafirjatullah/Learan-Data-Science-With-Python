@@ -9,7 +9,7 @@ This repository contains essential topics to master Data Science using Python â€
 ### 1. Introduction
 Basic setup of the data science environment, including Python, Jupyter Notebook, and essential packages.
 
-### 2. Pandas & NumPy  
+### 2. Pandas & NumPy
 Libraries for data manipulation and numerical operations. Pandas is used for working with structured data, while NumPy handles numerical arrays.
 
 ### 3. Matplotlib & Seaborn  
